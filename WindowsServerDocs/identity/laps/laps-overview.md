@@ -18,6 +18,7 @@ Windows LAPS is now available on the following OS platforms with the specified u
 - [Windows 11 22H2 - April 11 2023 Update](https://support.microsoft.com/help/5025239)
 - [Windows 11 21H2 - April 11 2023 Update](https://support.microsoft.com/help/5025224)
 - [Windows 10 - April 11 2023 Update](https://support.microsoft.com/help/5025221)
+- [Windows Server 2025] (https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-windows-server-2025)
 - [Windows Server 2022 - April 11 2023 Update](https://support.microsoft.com/help/5025230)
 - [Windows Server 2019 - April 11 2023 Update](https://support.microsoft.com/help/5025229)
 
