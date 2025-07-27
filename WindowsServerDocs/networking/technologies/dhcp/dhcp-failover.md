@@ -75,7 +75,7 @@ DHCP failover partners:
 > [!IMPORTANT]
 > When replicating settings between DHCP failover partner servers that have different operating system versions, always modify settings and initiate replication from the DHCP server with the more recent operating system version. This ensures that settings are recognized by both failover partners and replicated consistently.
 
-You can configure DHCP failover can be configured using Server Manager or Windows PowerShell. For information about using Windows PowerShell, see [DHCP Server Cmdlets in Windows PowerShell](/powershell/module/dhcpserver/). For instructions to configure DHCP in Server Manager, see this [step-by-step guide](/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831385(v=ws.11)).
+You can configure DHCP failover using Server Manager or Windows PowerShell. For information about using Windows PowerShell, see [DHCP Server Cmdlets in Windows PowerShell](/powershell/module/dhcpserver/). For instructions to configure DHCP in Server Manager, see this [step-by-step guide](/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831385(v=ws.11)).
 
 ## DHCP failover and IPv6
 
